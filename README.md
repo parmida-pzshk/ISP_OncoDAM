@@ -8,11 +8,24 @@ You can run the project directly in Google Colab by clicking the links below:
 
 DigestPath dataset:
 
-Unsegmented[![Unsegmented](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1P7rVDjEBhcUCjfn2Q8Ex67LBWwbZe5Tr#scrollTo=jqpGPP4brYBI)
+Unsegmented
 
-Segmented[![Segmented](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1XOIjudCCx22OBn7RQOKMwWFE1VuNGbpQ#scrollTo=R2mPmzUIjLAr)
+
+[![Unsegmented](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1P7rVDjEBhcUCjfn2Q8Ex67LBWwbZe5Tr#scrollTo=jqpGPP4brYBI)
+
+Segmented
+
+
+[![Segmented](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1XOIjudCCx22OBn7RQOKMwWFE1VuNGbpQ#scrollTo=R2mPmzUIjLAr)
 
 BACH dataset:
 
-Unsegmented[![Unsegmented](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1XOIjudCCx22OBn7RQOKMwWFE1VuNGbpQ#scrollTo=R2mPmzUIjLAr)
-Segmented[![Segmented](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1XOIjudCCx22OBn7RQOKMwWFE1VuNGbpQ#scrollTo=R2mPmzUIjLAr)
+Unsegmented
+
+
+[![Unsegmented](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1XOIjudCCx22OBn7RQOKMwWFE1VuNGbpQ#scrollTo=R2mPmzUIjLAr)
+
+Segmented
+
+
+[![Segmented](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1XOIjudCCx22OBn7RQOKMwWFE1VuNGbpQ#scrollTo=R2mPmzUIjLAr)
