@@ -5,12 +5,14 @@ This is our project done during the Neuromatch Academy's Impact Scholars Program
 ## Google Colab Notebooks
 
 You can run the project directly in Google Colab by clicking the links below:
+
 DigestPath dataset:
 
-[![Unsegmented](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1P7rVDjEBhcUCjfn2Q8Ex67LBWwbZe5Tr#scrollTo=jqpGPP4brYBI)
-[![Segmented](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1XOIjudCCx22OBn7RQOKMwWFE1VuNGbpQ#scrollTo=R2mPmzUIjLAr)
+Unsegmented[![Unsegmented](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1P7rVDjEBhcUCjfn2Q8Ex67LBWwbZe5Tr#scrollTo=jqpGPP4brYBI)
+
+Segmented[![Segmented](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1XOIjudCCx22OBn7RQOKMwWFE1VuNGbpQ#scrollTo=R2mPmzUIjLAr)
 
 BACH dataset:
 
-[![Unsegmented](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1XOIjudCCx22OBn7RQOKMwWFE1VuNGbpQ#scrollTo=R2mPmzUIjLAr)
-[![Segmented](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1XOIjudCCx22OBn7RQOKMwWFE1VuNGbpQ#scrollTo=R2mPmzUIjLAr)
+Unsegmented[![Unsegmented](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1XOIjudCCx22OBn7RQOKMwWFE1VuNGbpQ#scrollTo=R2mPmzUIjLAr)
+Segmented[![Segmented](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1XOIjudCCx22OBn7RQOKMwWFE1VuNGbpQ#scrollTo=R2mPmzUIjLAr)
